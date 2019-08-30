@@ -12,6 +12,7 @@ setuptools.setup(
     decciption="rasa中文拓展包",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    license="MIT",
     url="https://github.com/zlxwl/rasa_chinese_extend_plugin.git",
     packages=setuptools.find_packages(),
     classifiers=[
