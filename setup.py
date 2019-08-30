@@ -9,7 +9,7 @@ setuptools.setup(
     version="1.0",
     author="ZhongLei",
     author_email="625015751@qq.com",
-    decciption="rasa中文拓展包",
+    decciption="rasa_chi_exd",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
@@ -17,7 +17,6 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT Liense",
         "Operating System :: OS Independent",
     ],
 )
