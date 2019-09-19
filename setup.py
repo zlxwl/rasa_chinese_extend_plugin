@@ -6,7 +6,7 @@ with open("README.md", 'r') as f:
 
 setuptools.setup(
     name="rasa_chinese_plugin",
-    version="1.0",
+    version="2.0",
     author="ZhongLei",
     author_email="625015751@qq.com",
     decciption="rasa_chi_exd",
