@@ -1,3 +1,3 @@
 
-name = "rasa-chi-plugin"
+name = "rasa_chinese_plugin"
 

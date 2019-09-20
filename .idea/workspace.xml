@@ -9,8 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../projects/ivr_nlu/demo/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/ivr_nlu/demo/metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/ivr_nlu/demo/training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/ivr_nlu/demo/training_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/featurizer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/featurizer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rasa_chinese_plugin.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_chinese_plugin.egg-info/PKG-INFO" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,39 +28,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/top_level.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/SOURCES.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/PKG-INFO">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/dependency_links.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/featurizer/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -93,18 +76,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/rasa_extend.py" />
         <option value="$PROJECT_DIR$/featurizer/bert_featurizer.py" />
         <option value="$PROJECT_DIR$/featurizer/__init__.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="521" />
-    <option name="y" value="155" />
-    <option name="width" value="1022" />
-    <option name="height" value="726" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,22 +105,7 @@
             <path>
               <item name="rasa_chinese_extentd_plugin" type="b2602c69:ProjectViewProjectNode" />
               <item name="rasa_chinese_extentd_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rasa_chinese_extentd_plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rasa_chinese_extentd_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rasa_chinese_extentd_plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rasa_chinese_extentd_plugin" type="462c0819:PsiDirectoryNode" />
               <item name="featurizer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rasa_chinese_extentd_plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rasa_chinese_extentd_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="rasa_chinese_plugin.egg-info" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,6 +121,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\rasa_nlu_chi\rasa_chinese_extentd_plugin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,12 +152,12 @@
       <workItem from="1567158296981" duration="2612000" />
       <workItem from="1567163585282" duration="4216000" />
       <workItem from="1567168909868" duration="2748000" />
-      <workItem from="1568874856143" duration="5037000" />
+      <workItem from="1568874856143" duration="6716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14613000" />
+    <option name="totallyTimeSpent" value="16292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -230,10 +203,24 @@
     <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/SOURCES.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/PKG-INFO">
+    <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/dependency_links.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/dependency_links.txt">
+    <entry file="file://$PROJECT_DIR$/featurizer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rasa_chinese_plugin.egg-info/PKG-INFO">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/featurizer/bert_featurizer.py">
@@ -243,19 +230,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/featurizer/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
