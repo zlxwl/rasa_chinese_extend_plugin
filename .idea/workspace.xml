@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249a3e29-603f-4d19-9386-266e24389ce8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_detection/data_process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_detection/eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../httpserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/ivr_nlu/demo/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/ivr_nlu/demo/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projects/ivr_nlu/demo/training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../projects/ivr_nlu/demo/training_data.json" afterDir="false" />
+      <change beforePath="E:/README.md" beforeDir="false" afterPath="E:/README.md" afterDir="false" />
+      <change beforePath="E:/chat_detection/data_process.py" beforeDir="false" />
+      <change beforePath="E:/chat_detection/eval.py" beforeDir="false" />
+      <change beforePath="E:/httpserver.py" beforeDir="false" afterPath="E:/httpserver.py" afterDir="false" />
+      <change beforePath="E:/projects/ivr_nlu/demo/metadata.json" beforeDir="false" afterPath="E:/projects/ivr_nlu/demo/metadata.json" afterDir="false" />
+      <change beforePath="E:/projects/ivr_nlu/demo/training_data.json" beforeDir="false" afterPath="E:/projects/ivr_nlu/demo/training_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,11 +83,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">

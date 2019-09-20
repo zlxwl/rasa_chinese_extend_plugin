@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/rasa_chinese_extentd_plugin.iml" filepath="$PROJECT_DIR$/.idea/rasa_chinese_extentd_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rasa_chinese_plugin.iml" filepath="$PROJECT_DIR$/.idea/rasa_chinese_plugin.iml" />
     </modules>
   </component>
 </project>

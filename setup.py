@@ -6,10 +6,10 @@ with open("README.md", 'r') as f:
 
 setuptools.setup(
     name="rasa_chinese_plugin",
-    version="3.0",
+    version="4.0",
     author="ZhongLei",
     author_email="625015751@qq.com",
-    decciption="rasa_chi_exd",
+    description="rasa_chi_exd",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
