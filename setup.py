@@ -38,7 +38,7 @@ with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 
 install_requires = [
     "rasa_nlu == 0.15.0",
-    "rasa_core == 0.14.0"
+    "rasa_core == 0.14.0",
     "jieba~=0.39",
     "bert-serving-client==1.8.9"
 ]
