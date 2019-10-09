@@ -3,7 +3,7 @@ rm -rf dist/*
 
 python setup.py sdist upload
 
-python setup.py bist_wheel upload
+python setup.py bdist_wheel upload
 
 twine upload dist/*
 
