@@ -44,7 +44,7 @@ install_requires = [
 ]
 
 setup(
-    name='rasa_chinese_plugin',
+    name='rasa-chinese-plugin',
     packages=find_packages(),
     version=__version__,
     install_requires=install_requires,
