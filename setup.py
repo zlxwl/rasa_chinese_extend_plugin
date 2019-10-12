@@ -56,7 +56,7 @@ setup(
     author_email='625015751@qq.com',
     maintainer="Zhong Lei",
     maintainer_email="625015751@qq.com",
-    license='Apache 2.0',
+    # license='Apache 2.0',
     url="https://rasa.com",
     keywords="nlp machine-learning machine-learning-library bot bots "
              "botkit rasa conversational-agents conversational-ai chatbot"
@@ -67,6 +67,11 @@ setup(
         'Bug Reports': 'https://github.com/zlxwl/rasa_chinese_extend_plugin/issues',
         'Source': 'https://github.com/zlxwl/rasa_chinese_extend_plugin',
     },
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
+        "Operating System :: OS Independent",
+    ],
 )
 
 print("\nWelcome to Rasa NLU!")
